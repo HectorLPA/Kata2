@@ -2,10 +2,6 @@ package kata2;
 
 import java.util.*;
 
-/**
- *
- * @author juancarlos
- */
 public class Kata2 {
 
     public static void main(String[] args) {
