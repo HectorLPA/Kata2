@@ -21,5 +21,6 @@ public class Kata2 {
             System.out.println(map.get(frecuency));
         }
     }
+    
 
 }
